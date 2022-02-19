@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I’m currently learning some secret but interesting things.
+<p>
+  <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=cckuailong&show_icons=true&hide_border=true&theme=shades-of-purple">
+</p>
